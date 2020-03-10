@@ -5,7 +5,10 @@ class App extends Component {
     this.state = {};
   }
   render() {
-    return <div>Hello React</div>;
+    return <div>
+      Hello React
+
+    </div>;
   }
 }
 
